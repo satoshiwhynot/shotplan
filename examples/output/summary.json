@@ -1,0 +1,26 @@
+{
+  "currency": "USD",
+  "shots": 4,
+  "duration_seconds": "14",
+  "planned_attempts": 10,
+  "estimated_generation_cost": "5.75",
+  "cost_basis": "User-entered unit cost per attempt. Excludes editing, subscriptions, tax and unplanned retries.",
+  "shot_costs": [
+    {
+      "shot_id": "S01",
+      "estimated_cost": "1.00"
+    },
+    {
+      "shot_id": "S02",
+      "estimated_cost": "1.50"
+    },
+    {
+      "shot_id": "S03",
+      "estimated_cost": "2.25"
+    },
+    {
+      "shot_id": "S04",
+      "estimated_cost": "1.00"
+    }
+  ]
+}

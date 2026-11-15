@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 590" role="img" aria-labelledby="title"><title id="title">Shotplan — sample storyboard and fictional budget</title><rect width="1120" height="590" fill="#f4f3ee"/>
+<text x="45" y="49" font-family="Arial, sans-serif" font-size="11" font-weight="400" fill="#65724c" letter-spacing="2">SHOTPLAN / PRE-PRODUCTION</text>
+<text x="1075" y="49" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#71766c" text-anchor="end" letter-spacing="1">EXAMPLE OUTPUT</text>
+<path d="M45 74 h1030" stroke="#d9dcd1"/>
+<text x="45" y="145" font-family="Arial, sans-serif" font-size="48" font-weight="400" fill="#20251f" >A shape takes form</text>
+<text x="45" y="211" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#20251f" >4</text>
+<text x="45" y="238" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#738066" letter-spacing="1">SHOTS</text>
+<text x="235" y="211" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#20251f" >14s</text>
+<text x="235" y="238" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#738066" letter-spacing="1">PLANNED RUNTIME</text>
+<text x="465" y="211" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#20251f" >USD 5.75</text>
+<text x="465" y="238" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#738066" letter-spacing="1">ESTIMATED GENERATION</text>
+<text x="850" y="211" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#20251f" >11</text>
+<text x="850" y="238" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#738066" letter-spacing="1">PLANNED ATTEMPTS</text>
+<path d="M45 262 h1030" stroke="#d9dcd1"/>
+<rect x="45" y="287" width="241" height="227" rx="3" fill="#fafbf6" stroke="#d4d9c9"/>
+<rect x="46" y="288" width="239" height="117" rx="3" fill="#dfe5d4" stroke="none"/>
+<text x="165" y="349" font-family="Arial, sans-serif" font-size="39" font-weight="400" fill="#8b987b" text-anchor="middle">S01</text>
+<text x="165" y="378" font-family="Arial, sans-serif" font-size="8" font-weight="400" fill="#8b987b" text-anchor="middle" letter-spacing="2">REFERENCE FRAME</text>
+<text x="59" y="428" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#20251f" >S01</text>
+<text x="272" y="428" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#69785c" text-anchor="end">0s → 4s</text>
+<text x="59" y="455" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#20251f" >A light wakes the studio</text>
+<text x="59" y="476" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >Locked wide shot</text>
+<text x="59" y="498" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >2 × USD 0.50</text>
+<rect x="308" y="287" width="241" height="227" rx="3" fill="#fafbf6" stroke="#d4d9c9"/>
+<rect x="309" y="288" width="239" height="117" rx="3" fill="#dfe5d4" stroke="none"/>
+<text x="428" y="349" font-family="Arial, sans-serif" font-size="39" font-weight="400" fill="#8b987b" text-anchor="middle">S02</text>
+<text x="428" y="378" font-family="Arial, sans-serif" font-size="8" font-weight="400" fill="#8b987b" text-anchor="middle" letter-spacing="2">REFERENCE FRAME</text>
+<text x="322" y="428" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#20251f" >S02</text>
+<text x="535" y="428" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#69785c" text-anchor="end">4s → 7s</text>
+<text x="322" y="455" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#20251f" >The first line appears</text>
+<text x="322" y="476" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >Slow overhead push</text>
+<text x="322" y="498" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >3 × USD 0.50</text>
+<rect x="571" y="287" width="241" height="227" rx="3" fill="#fafbf6" stroke="#d4d9c9"/>
+<rect x="572" y="288" width="239" height="117" rx="3" fill="#dfe5d4" stroke="none"/>
+<text x="691" y="349" font-family="Arial, sans-serif" font-size="39" font-weight="400" fill="#8b987b" text-anchor="middle">S03</text>
+<text x="691" y="378" font-family="Arial, sans-serif" font-size="8" font-weight="400" fill="#8b987b" text-anchor="middle" letter-spacing="2">REFERENCE FRAME</text>
+<text x="585" y="428" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#20251f" >S03</text>
+<text x="798" y="428" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#69785c" text-anchor="end">7s → 11s</text>
+<text x="585" y="455" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#20251f" >A shape becomes a form</text>
+<text x="585" y="476" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >Locked medium close-up</text>
+<text x="585" y="498" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >3 × USD 0.75</text>
+<rect x="834" y="287" width="241" height="227" rx="3" fill="#fafbf6" stroke="#d4d9c9"/>
+<rect x="835" y="288" width="239" height="117" rx="3" fill="#dfe5d4" stroke="none"/>
+<text x="954" y="349" font-family="Arial, sans-serif" font-size="39" font-weight="400" fill="#8b987b" text-anchor="middle">S04</text>
+<text x="954" y="378" font-family="Arial, sans-serif" font-size="8" font-weight="400" fill="#8b987b" text-anchor="middle" letter-spacing="2">REFERENCE FRAME</text>
+<text x="848" y="428" font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#20251f" >S04</text>
+<text x="1061" y="428" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#69785c" text-anchor="end">11s → 14s</text>
+<text x="848" y="455" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#20251f" >Morning finds the form</text>
+<text x="848" y="476" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >Slow pull back</text>
+<text x="848" y="498" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >2 × USD 0.50</text>
+<text x="45" y="550" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#20251f" >CSV → storyboard.html + prompts.md + summary.json</text>
+<text x="45" y="574" font-family="Arial, sans-serif" font-size="10" font-weight="400" fill="#69785c" >Fictional planning inputs. No generation submitted. Reference slots are placeholders.</text>
+</svg>
