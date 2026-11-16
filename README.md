@@ -2,7 +2,7 @@
 
 **A film plan you can inspect before generating anything.** Turn a CSV shot list into an offline storyboard, a prompt pack and an exact decimal cost estimate.
 
-![Shotplan example: four shots, fourteen seconds, eleven planned attempts, USD 5.75 estimated generation cost](docs/preview.svg)
+![Shotplan example: four shots, fourteen seconds, ten planned attempts, USD 5.75 estimated generation cost](docs/preview.svg)
 
 ## Quick start
 

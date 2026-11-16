@@ -9,7 +9,7 @@
 <text x="235" y="238" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#738066" letter-spacing="1">PLANNED RUNTIME</text>
 <text x="465" y="211" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#20251f" >USD 5.75</text>
 <text x="465" y="238" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#738066" letter-spacing="1">ESTIMATED GENERATION</text>
-<text x="850" y="211" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#20251f" >11</text>
+<text x="850" y="211" font-family="Arial, sans-serif" font-size="30" font-weight="400" fill="#20251f" >10</text>
 <text x="850" y="238" font-family="Arial, sans-serif" font-size="9" font-weight="400" fill="#738066" letter-spacing="1">PLANNED ATTEMPTS</text>
 <path d="M45 262 h1030" stroke="#d9dcd1"/>
 <rect x="45" y="287" width="241" height="227" rx="3" fill="#fafbf6" stroke="#d4d9c9"/>
